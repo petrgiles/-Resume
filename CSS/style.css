@@ -1,3 +1,37 @@
 h3{
-	color:#082;
+	color:#008;
 }
+
+h1{
+	text-align:center;
+	color:crimson;
+	font-size:30px;
+}
+hr{
+	border-top:1px solid red;
+}
+	
+
+
+body{
+		
+	background-color:#73abff;
+
+}
+
+
+Form{
+	padding:10px 20px 10px 20px;
+	background-color:lightgreen;
+	border-style:groove;
+	border-width:5px;
+	border-radius:10px;
+	border-color:#666;
+	margin:25px 50px;
+	Font-family: serif;
+	font-size:20px;
+	
+	
+	
+}
+
